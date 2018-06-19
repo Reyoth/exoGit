@@ -7,6 +7,8 @@ Test des fonctions de **git**
 
 ## A faire
 
-[] clone
-[] commit
-[] pull/push
+## FAIT
+
+* clone
+* commit
+* push
